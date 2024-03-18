@@ -1,0 +1,19 @@
+mode: set
+service-user/services/services.go:21.75,23.2 1 1
+service-user/services/services.go:25.70,27.40 1 1
+service-user/services/services.go:27.40,34.3 1 1
+service-user/services/services.go:36.2,37.16 2 1
+service-user/services/services.go:37.16,38.38 1 1
+service-user/services/services.go:38.38,44.4 1 1
+service-user/services/services.go:47.2,47.22 1 1
+service-user/services/services.go:47.22,53.3 1 1
+service-user/services/services.go:54.2,56.48 3 1
+service-user/services/services.go:59.82,61.40 1 1
+service-user/services/services.go:61.40,68.3 1 1
+service-user/services/services.go:70.2,71.16 2 1
+service-user/services/services.go:71.16,77.3 1 0
+service-user/services/services.go:79.2,79.22 1 1
+service-user/services/services.go:79.22,85.3 1 1
+service-user/services/services.go:90.2,91.20 2 0
+service-user/services/services.go:91.20,98.3 1 0
+service-user/services/services.go:100.2,100.23 1 0
